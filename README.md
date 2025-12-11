@@ -10,7 +10,6 @@ O desenvolvimento foi focado em extrair o máximo de informação das features d
 
     Os dados de treino e teste foram carregados e a coluna Id, por ser um identificador único sem valor preditivo, foi removida.
 
-    (Mencionar qualquer outro tratamento de valores ausentes ou limpeza inicial).
 
 2. Engenharia de Features (Etapa Crítica)
 
